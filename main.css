@@ -1,0 +1,86 @@
+.img1 {
+  height: 30px;
+  width: 40px;
+}
+.mainbtn {
+  border: none;
+  border: 1px solid gold;
+  color: gold;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #7952b3;
+  font-weight: 600;
+}
+.mainbtn:hover {
+  background-color: gold;
+  color: black;
+  font-weight: 600;
+}
+.h1size {
+  font-size: 59px;
+}
+.p1size {
+  font-size: 24px;
+}
+.btn-primary {
+  border: 1px solid #7952b3 !important;
+  background-color: #7952b3 !important;
+}
+.btn-primary:hover {
+  background-color: #5825a5 !important ;
+}
+.btn-lg {
+  padding: 15px 40px !important;
+}
+.myptag {
+  font-size: 17px;
+}
+.myp1tag {
+  font-size: 20px;
+  font-weight: 450;
+}
+.bg-secondarys {
+  background-color: rgb(245, 241, 241);
+}
+.foot-font {
+  font-size: 15px;
+}
+.foot-font h3 {
+  font-size: 25px;
+}
+#icon2 {
+  font-size: 2rem;
+  background-color: blue;
+  color: aliceblue;
+  padding: 10px;
+  border-radius: 5px;
+  text-shadow: 1px 1px 1px #ccc;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#icon1 {
+  font-size: 2rem;
+  background-color: green;
+  color: aliceblue;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-shadow: 1px 1px 1px #ccc;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#icon3 {
+  font-size: 2rem;
+  background-color: rgb(72, 6, 134);
+  color: aliceblue;
+  padding: 10px;
+  border-radius: 5px;
+  text-shadow: 1px 1px 1px #ccc;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#icon4 {
+  font-size: 2rem;
+  background-color: red;
+  color: aliceblue;
+  padding: 10px;
+  border-radius: 5px;
+  text-shadow: 1px 1px 1px #ccc;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
